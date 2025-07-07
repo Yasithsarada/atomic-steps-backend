@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtomicSteps", "AtomicSteps.csproj", "{451A53C3-A254-42D7-A781-C0F4782BFBED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0E897308-AFB8-4F69-9311-332064522E60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{451A53C3-A254-42D7-A781-C0F4782BFBED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{451A53C3-A254-42D7-A781-C0F4782BFBED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{451A53C3-A254-42D7-A781-C0F4782BFBED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{451A53C3-A254-42D7-A781-C0F4782BFBED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

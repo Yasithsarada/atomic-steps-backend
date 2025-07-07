@@ -1,0 +1,6 @@
+@AtomicSteps_HostAddress = http://localhost:5192
+
+GET {{AtomicSteps_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
